@@ -40,8 +40,12 @@ This repository serves as a centralized resource for security professionals, con
 ### 🔍 Wordlists
 - Empty
 
+<a href="https://github.com/unknown-bd/Word-Lists/tree/main/Payload">
+
 ### ⚡ Payloads
-- Empty
+</a>
+
+- [path-traversal-payload.txt](https://github.com/unknown-bd/Word-Lists/blob/main/Payload/path-traversal-payload.txt)
 
 ### 🎯 Fuzzing Dictionaries
 - Empty
