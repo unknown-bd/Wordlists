@@ -5,14 +5,7 @@
 </div>
 
 
-<div align="center">
 
-<img src="https://img.shields.io/github/license/unknown-bd/Word-Lists">
-<img src="https://img.shields.io/github/last-commit/unknown-bd/Word-Lists">
-<img src="https://img.shields.io/github/contributors/unknown-bd/Word-Lists">
-<img src="https://img.shields.io/github/repo-size/unknown-bd/Word-Lists">
-
-</div>
 
 A comprehensive collection of **wordlists**, **payloads**, **fuzzing dictionaries**, and security testing resources for penetration testers, bug bounty hunters, and security researchers.
 
@@ -74,6 +67,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <div align="center">
 
 If you find this repository useful, please consider giving it a star ⭐!
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/license/unknown-bd/Word-Lists">
+<img src="https://img.shields.io/github/last-commit/unknown-bd/Word-Lists">
+<img src="https://img.shields.io/github/contributors/unknown-bd/Word-Lists">
+<img src="https://img.shields.io/github/repo-size/unknown-bd/Word-Lists">
 
 </div>
 
