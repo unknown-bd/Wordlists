@@ -1,12 +1,12 @@
 <div align="center">
 
-<h2>Endpoints Collection</h2>
+<h2>Endpoints Collection</h2><hr>
 
 </div>
 
 ## 📑 Index of the repository
 
-- [Okta Endpoints](https://)
+- [Okta Endpoints](https://github.com/unknown-bd/Wordlists/blob/main/Endpoints/okta-endpoints.md)
 
 <h2 id="disclaimer">
 
