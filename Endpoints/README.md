@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Endpoints Collection</h2><hr>
+<h2>Endpoints Collection</h2>
 
 </div>
 
