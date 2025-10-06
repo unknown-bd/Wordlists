@@ -30,7 +30,7 @@ This repository serves as a centralized resource for security professionals, con
 
 ### <a href="https://github.com/unknown-bd/Wordlists/tree/main/Payload"> ⚡ Payloads </a>
 
-### 🎯 Endpoints
+### <a href="https://github.com/unknown-bd/Wordlists/tree/main/Endpoints">🎯 Endpoints</a>
 
 ### 🔧 Custom
 
